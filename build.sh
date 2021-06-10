@@ -1,0 +1,1 @@
+docker build -f dockerfile -t medics:0.0.1 ./
